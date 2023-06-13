@@ -1,0 +1,63 @@
+title:God_roll_Destiny_2_Thar_Skyborn
+
+// Cold Comfort (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=839786290&perks=3977735242,3078487919
+
+
+// Cold Comfort (pve)
+//notes: tags:pve
+dimwishlist:item=839786290&perks=3796465595,1428297954,3194351027
+dimwishlist:item=839786290&perks=3796465595,1428297954,3078487919
+dimwishlist:item=839786290&perks=3796465595,3977735242,3194351027
+dimwishlist:item=839786290&perks=3796465595,3977735242,3078487919
+
+
+// New Pacific Epitaph (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1125217994&perks=3523296417,11612903
+
+
+// New Pacific Epitaph (pve)
+//notes: tags:pve
+dimwishlist:item=1125217994&perks=1556840489,1015611457
+dimwishlist:item=1125217994&perks=1556840489,11612903
+dimwishlist:item=1125217994&perks=3523296417,1015611457
+dimwishlist:item=1125217994&perks=3523296417,11612903
+dimwishlist:item=1125217994&perks=1428297954,1015611457
+dimwishlist:item=1125217994&perks=1428297954,11612903
+
+
+// Greasy Luck (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757202961&perks=1966281507,4293542123
+
+
+// Greasy Luck (pve)
+//notes: tags:pve
+dimwishlist:item=1757202961&perks=1683379515,2224838837
+dimwishlist:item=1757202961&perks=1683379515,1782407750
+dimwishlist:item=1757202961&perks=1683379515,4293542123
+dimwishlist:item=1757202961&perks=1966281507,2224838837
+dimwishlist:item=1757202961&perks=1966281507,1782407750
+dimwishlist:item=1757202961&perks=1966281507,4293542123
+dimwishlist:item=1757202961&perks=1556840489,2224838837
+dimwishlist:item=1757202961&perks=1556840489,1782407750
+dimwishlist:item=1757202961&perks=1556840489,4293542123
+
+
+// No Survivors (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3262192268&perks=2846385770,4293542123
+
+
+// No Survivors (pve)
+//notes: tags:pve
+dimwishlist:item=3262192268&perks=2846385770,365154968
+dimwishlist:item=3262192268&perks=2846385770,11612903
+dimwishlist:item=3262192268&perks=2846385770,4293542123
+dimwishlist:item=3262192268&perks=3523296417,365154968
+dimwishlist:item=3262192268&perks=3523296417,11612903
+dimwishlist:item=3262192268&perks=3523296417,4293542123
+
+
