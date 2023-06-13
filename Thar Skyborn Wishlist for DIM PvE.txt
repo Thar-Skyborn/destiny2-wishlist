@@ -1,0 +1,35 @@
+title:Hello
+description:Hello
+
+
+// New Pacific Epitaph (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1125217994&perks=3523296417,1015611457
+
+
+// New Pacific Epitaph (pve)
+//notes: tags:pve
+dimwishlist:item=1125217994&perks=3523296417,1015611457
+dimwishlist:item=1125217994&perks=3523296417,691659142
+dimwishlist:item=1125217994&perks=1556840489,1015611457
+dimwishlist:item=1125217994&perks=1556840489,691659142
+
+
+// No Survivors (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3262192268&perks=3523296417,4293542123
+
+
+// No Survivors (pve)
+//notes: tags:pve
+dimwishlist:item=3262192268&perks=3523296417,4293542123
+dimwishlist:item=3262192268&perks=3523296417,11612903
+dimwishlist:item=3262192268&perks=3523296417,365154968
+dimwishlist:item=3262192268&perks=2846385770,4293542123
+dimwishlist:item=3262192268&perks=2846385770,11612903
+dimwishlist:item=3262192268&perks=2846385770,365154968
+dimwishlist:item=3262192268&perks=3436462433,4293542123
+dimwishlist:item=3262192268&perks=3436462433,11612903
+dimwishlist:item=3262192268&perks=3436462433,365154968
+
+
